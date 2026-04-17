@@ -65,4 +65,5 @@ Trong đó:
 
 ## Kết nối WiFi
 ESP32 hoạt động như **TCP Server**:
+```cpp
 WiFiServer server(80);
