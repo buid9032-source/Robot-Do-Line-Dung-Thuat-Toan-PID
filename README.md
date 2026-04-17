@@ -68,7 +68,4 @@ ESP32 hoạt động như **TCP Server**:
 ```cpp
 WiFiServer server(80);
 
-## 🔗 Link tham khảo
-
-Video Demo: https://youtube.com/shorts/ThaLz9AZ7bE?feature=share  
-Tạp chí: https://link-tap-chi-cua-ban
+[🎥 Video Demo Sản Phẩm](https://youtube.com/shorts/ThaLz9AZ7bE?feature=share)
