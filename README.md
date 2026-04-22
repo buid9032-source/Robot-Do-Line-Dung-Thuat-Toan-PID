@@ -70,3 +70,4 @@ WiFiServer server(80);
 ```
 ## Link 
 [🎥 Video Demo Sản Phẩm](https://youtube.com/shorts/ThaLz9AZ7bE?feature=share)
+[📄Xem bài báo](https://ejournal.ptti.web.id/index.php/jfsc/article/view/368)
